@@ -1,11 +1,19 @@
 {
-  "author": "Brad Dayley",
-  "name": "censorify",
-  "version": "0.1.1",
-  "description": "Censors words out of text",
-  "main": "censortext",
-  "dependencies": {},
-  "engines": {
-      "node": "*"
-  }
+    "author": "wangshuang",
+    "name": "wangshuangtest01",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ShirleyiOS/node-ch03/tree/master/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
 }
